@@ -1,0 +1,702 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 661,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "OMOwmLgbMfYC",
+      "etag": "90BetOszSXM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OMOwmLgbMfYC",
+      "volumeInfo": {
+        "title": "Out's Gay & Lesbian Guide to the Web",
+        "authors": ["J. Harrison Fitch"],
+        "publisher": "Que",
+        "publishedDate": "1997",
+        "description": "Gay and Lesbian Guide to the Web provides gay and lesbians with instant access to vast resources of gay and lesbian information on the Web. Organized as both a directory and how-to/reference guide to the Web, the book shows readers how to use online information for personal growth and political activism. Written for people at all levels of computer skills, Gay and Lesbian Resources Web Directory attempts to reflect the diversity of the gay and lesbian community by charting the entire spectrum of gay and lesbian interests as found on the Web. -- Gargantuan directory of Web sites and gay and lesbian online resources that focuses exclusively on gay and lesbian interests -- Instant connections to information on gay and lesbian organizations, AIDS research updates, gay and lesbian businesses, travel and leisure activities, the arts, health and medical resources, domestic partnership issues, raising children, political activism, coming out issues, gay youth, etc. -- CD-ROM includes Internet Explorer browser software, hyperlinked HTML version of the entire book, and valuable shareware and commercial demo software from online gay resources",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0789710595"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780789710598"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 316,
+        "printType": "BOOK",
+        "categories": ["Gay men"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OMOwmLgbMfYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OMOwmLgbMfYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=OMOwmLgbMfYC&q=search+term&dq=search+term&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=OMOwmLgbMfYC&dq=search+term&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Out_s_Gay_Lesbian_Guide_to_the_Web.html?hl=&id=OMOwmLgbMfYC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OMOwmLgbMfYC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... SEARCHES. You can&#39;t use + in \u003cb\u003esearch terms\u003c/b\u003e. A common instance of this is the term C++, which gets stripped down to c. Unfortunately, this leaves a single letter which, being shorter than three characters, is ignored. This behavior can be&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ups8CwAAQBAJ",
+      "etag": "vO+pMVA6swg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ups8CwAAQBAJ",
+      "volumeInfo": {
+        "title": "Microsoft Word 2016 Step By Step",
+        "authors": ["Joan Lambert"],
+        "publisher": "Microsoft Press",
+        "publishedDate": "2015-12-18",
+        "description": "The quick way to learn Microsoft Word 2016! This is learning made easy. Get more done quickly with Word 2016. Jump in wherever you need answers--brisk lessons and colorful screenshots show you exactly what to do, step by step. Get easy-to-follow guidance from a certified Microsoft Office Specialist Master Learn and practice new skills while working with sample content, or look up specific procedures Create visually appealing documents for school, business, community, or personal purposes Use built-in tools to capture and edit graphics Present data in tables, diagrams, and charts Track and compile reference materials Manage document collaboration and review Fix privacy, accessibility, and compatibility issues Supercharge your efficiency by creating custom styles, themes, and templates",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780735699458"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0735699453"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 815,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ups8CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ups8CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=ups8CwAAQBAJ&pg=PT122&dq=search+term&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=ups8CwAAQBAJ&dq=search+term&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Microsoft_Word_2016_Step_By_Step.html?hl=&id=ups8CwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Microsoft_Word_2016_Step_By_Step-sample-epub.acsm?id=ups8CwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Microsoft_Word_2016_Step_By_Step-sample-pdf.acsm?id=ups8CwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ups8CwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... term by selecting the Match case check box. • Exclude occurrences of the \u003cb\u003esearch term\u003c/b\u003e that appear within other words by selecting the Find whole words only check box. Find two similar words, such as effect and affect, by."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CWL2BwAAQBAJ",
+      "etag": "oC70OUKeBQw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CWL2BwAAQBAJ",
+      "volumeInfo": {
+        "title": "AI 2003: Advances in Artificial Intelligence",
+        "subtitle": "16th Australian Conference on AI, Perth, Australia, December 3-5, 2003, Proceedings",
+        "authors": ["Tamas D. Gedeon", "Lance C.C. Fung"],
+        "publisher": "Springer",
+        "publishedDate": "2003-12-01",
+        "description": "Consider the problem of a robot (algorithm, learning mechanism) moving along the real line attempting to locate a particular point ? . To assist the me- anism, we assume that it can communicate with an Environment (“Oracle”) which guides it with information regarding the direction in which it should go. If the Environment is deterministic the problem is the “Deterministic Point - cation Problem” which has been studied rather thoroughly [1]. In its pioneering version [1] the problem was presented in the setting that the Environment could charge the robot a cost which was proportional to the distance it was from the point sought for. The question of having multiple communicating robots locate a point on the line has also been studied [1, 2]. In the stochastic version of this problem, we consider the scenario when the learning mechanism attempts to locate a point in an interval with stochastic (i. e. , possibly erroneous) instead of deterministic responses from the environment. Thus when it should really be moving to the “right” it may be advised to move to the “left” and vice versa. Apart from the problem being of importance in its own right, the stoch- tic pointlocationproblemalsohas potentialapplications insolvingoptimization problems. Inmanyoptimizationsolutions–forexampleinimageprocessing,p- tern recognition and neural computing [5, 9, 11, 12, 14, 16, 19], the algorithm worksits wayfromits currentsolutionto the optimalsolutionbasedoninfor- tion that it currentlyhas. A crucialquestionis oneof determining the parameter whichtheoptimizationalgorithmshoulduse.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783540245810"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3540245812"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1078,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CWL2BwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CWL2BwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=CWL2BwAAQBAJ&pg=PA66&dq=search+term&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=CWL2BwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=CWL2BwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9018.51,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 9018.51,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=CWL2BwAAQBAJ&rdid=book-CWL2BwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9018510000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 9018510000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/AI_2003_Advances_in_Artificial_Intellige-sample-pdf.acsm?id=CWL2BwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CWL2BwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003esearch terms\u003c/b\u003e in different contexts promises substantial potential for improving the current state of web search engines ... Term-based, Taxonomy-based, and Concept-based approaches. 2.1 Term-Based Approaches The Term-Based Approach (e.g.&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "77RZAAAAYAAJ",
+      "etag": "yhUqQF5NiEg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/77RZAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Pennsylvania Law Encyclopedia",
+        "publishedDate": "2004",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000062618915"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 492,
+        "printType": "BOOK",
+        "categories": ["Law"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=77RZAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=77RZAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=77RZAAAAYAAJ&q=search+term&dq=search+term&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=77RZAAAAYAAJ&dq=search+term&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pennsylvania_Law_Encyclopedia.html?hl=&id=77RZAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=77RZAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003esearch words\u003c/b\u003e appearing on either side of it. 2. W/n - finds both \u003cb\u003esearch words\u003c/b\u003e in a single document, appearing within n words of each other; either word may appear first, and you can replace the n by any number from 1 to 255. PRE/n&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kCFLTyBI4rIC",
+      "etag": "7O9OAagL5aw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kCFLTyBI4rIC",
+      "volumeInfo": {
+        "title": "SEO Made Simple",
+        "subtitle": "Strategies for Dominating the World's Largest Search Engine",
+        "authors": ["Michael H. Fleischner", "Greg Wuttke"],
+        "publisher": "SEO Made Simple",
+        "publishedDate": "2009-05-05",
+        "description": "New version available! SEO Made Simple is now in its 4th edition. Visit the SEO Made Simple (fourth edition) page for more information. http: //www.amazon.com/SEO-Made-Simple-4th-Edition/dp/1494892448 More Than 30,000 Copies Sold! The original SEO Made Simple: Strategies for Dominating the World's Leading Search Engine, is a tell-all guide for anyone trying to reach the highly coveted #1 ranking on Google for their Web site or Blog. Learn from a leading Webmaster the specific SEO techniques that deliver top rankings in less than 30 days. Whether you're a search engine optimization expert or new to Web site rankings, the techniques revealed in SEO Made Simple will give you everything you need to dominate the leading search engines. Generate tons of traffic to your website absolutely FREE with top search engine placement on Google, Yahoo! and MSN. SEO Made Simple is the only resource on search engine optimization that you'll ever need.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781442169203"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1442169206"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 108,
+        "printType": "BOOK",
+        "categories": ["Internet marketing"],
+        "averageRating": 5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kCFLTyBI4rIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kCFLTyBI4rIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=kCFLTyBI4rIC&printsec=frontcover&dq=search+term&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=kCFLTyBI4rIC&dq=search+term&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/SEO_Made_Simple.html?hl=&id=kCFLTyBI4rIC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/SEO_Made_Simple-sample-epub.acsm?id=kCFLTyBI4rIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/SEO_Made_Simple-sample-pdf.acsm?id=kCFLTyBI4rIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kCFLTyBI4rIC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "New version available! SEO Made Simple is now in its 4th edition. Visit the SEO Made Simple (fourth edition) page for more information. http: //www.amazon.com/SEO-Made-Simple-4th-Edition/dp/1494892448 More Than 30,000 Copies Sold!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fvSbCgAAQBAJ",
+      "etag": "Q4fovI0cDPE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fvSbCgAAQBAJ",
+      "volumeInfo": {
+        "title": "How Software Works",
+        "subtitle": "The Magic Behind Encryption, CGI, Search Engines, and Other Everyday Technologies",
+        "authors": ["V. Anton Spraul"],
+        "publisher": "No Starch Press",
+        "publishedDate": "2015-08-01",
+        "description": "We use software every day to perform all kinds of magical, powerful tasks. It's the force behind stunning CGI graphics, safe online shopping, and speedy Google searches. Software drives the modern world, but its inner workings remain a mystery to many. How Software Works explains how computers perform common-yet-amazing tasks that we take for granted every day. Inside you'll learn: –How data is encrypted –How passwords are used and protected –How computer graphics are created –How video is compressed for streaming and storage –How data is searched (and found) in huge databases –How programs can work together on the same problem without conflict –How data travels over the Internet How Software Works breaks down these processes with patient explanations and intuitive diagrams so that anyone can understand—no technical background is required, and you won't be reading through any code. In plain English, you'll examine the intricate logic behind the technologies you constantly use but never understood. If you've ever wondered what really goes on behind your computer screen, How Software Works will give you fascinating look into the software all around you.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781593276669"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1593276664"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 217,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fvSbCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fvSbCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=fvSbCgAAQBAJ&pg=PA159&dq=search+term&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=fvSbCgAAQBAJ&dq=search+term&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/How_Software_Works.html?hl=&id=fvSbCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fvSbCgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003esearch\u003c/b\u003e for insomnia will also include links to the 2002 film Insomnia, but these links aren&#39;t returned by a \u003cb\u003esearch\u003c/b\u003e ... \u003cb\u003eterm\u003c/b\u003e insomnia, then \u003cb\u003esearches\u003c/b\u003e for just insomnia may indicate someone interested in the film and not the medical&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uT0EAAAAMBAJ",
+      "etag": "iaYkKaeq+eQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uT0EAAAAMBAJ",
+      "volumeInfo": {
+        "title": "InfoWorld",
+        "publishedDate": "1991-09-23",
+        "description": "InfoWorld is targeted to Senior IT professionals. Content is segmented into Channels and Topic Centers. InfoWorld also celebrates people, companies, and projects.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 104,
+        "printType": "MAGAZINE",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uT0EAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uT0EAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=uT0EAAAAMBAJ&pg=PA78&dq=search+term&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=uT0EAAAAMBAJ&dq=search+term&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/InfoWorld.html?hl=&id=uT0EAAAAMBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uT0EAAAAMBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003esearch\u003c/b\u003e based on the remaining \u003cb\u003ewords\u003c/b\u003e. The program lets you filter \u003cb\u003esearches\u003c/b\u003e, limiting them to specified directories, file ... \u003cb\u003eterm\u003c/b\u003e. The program lets you scroll through the snatches of context from each file to quickly dismiss spurious hits&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jrkOERKcjtkC",
+      "etag": "tNwKOOLERd8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jrkOERKcjtkC",
+      "volumeInfo": {
+        "title": "Search Engine Optimization",
+        "subtitle": "Your Visual Blueprint for Effective Internet Marketing",
+        "authors": ["Kristopher B. Jones"],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2013-03-29",
+        "description": "Your visual, step-by-step guide to search engine optimization, from an Internet marketing expert Techniques and best practices for search engine optimization are constantly evolving. This visual guide to SEO is fully updated with information on the latest and most effective ways to move your website up in the search engine rankings. Internet marketing guru Kristopher Jones, a frequent keynote speaker at interactive marketing conferences, explains all the key concepts in a visual format so you can see how they work and what to do. Learn about keyword generation, internal linking, URL structure, content creation, using social media, and more. More than 70 percent of businesses today have websites; search engine optimization is a vital factor in growing a business by gaining new customers while increasing business from existing customers This two-color book is the only guide to search engine optimization that is presented in a visual format Presents search engine marketing principles including keyword generation, on-site optimization involving website structure, internal linking, URL structure, content creation, off-site optimization, social media optimization and more Author is a popular keynote speaker and panelist at interactive marketing and technology conferences Search Engine Optimization: Your visual blueprint for effective Internet marketing, Third Edition helps visual learners master and maximize SEO techniques.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781118551752"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1118551753"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jrkOERKcjtkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jrkOERKcjtkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=jrkOERKcjtkC&printsec=frontcover&dq=search+term&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=jrkOERKcjtkC&dq=search+term&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Search_Engine_Optimization.html?hl=&id=jrkOERKcjtkC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Search_Engine_Optimization-sample-epub.acsm?id=jrkOERKcjtkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Search_Engine_Optimization-sample-pdf.acsm?id=jrkOERKcjtkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jrkOERKcjtkC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book should be a constant companion for novices and experts alike."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8_JHAwAAQBAJ",
+      "etag": "Jhm9N3eQ5wA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8_JHAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Principles of Research Design and Drug Literature Evaluation",
+        "authors": ["Rajender R. Aparasu", "John P. Bentley"],
+        "publisher": "Jones & Bartlett Publishers",
+        "publishedDate": "2014-03-07",
+        "description": "Principles of Research Design and Drug Literature Evaluation is a unique resource that provides a balanced approach covering critical elements of clinical research, biostatistical principles, and scientific literature evaluation techniques for evidence-based medicine. This accessible text provides comprehensive course content that meets and exceeds the curriculum standards set by the Accreditation Council for Pharmacy Education (ACPE). Written by expert authors specializing in pharmacy practice and research, this valuable text will provide pharmacy students and practitioners with a thorough understanding of the principles and practices of drug literature evaluation with a strong grounding in research and biostatistical principles. Principles of Research Design and Drug Literature Evaluation is an ideal foundation for professional pharmacy students and a key resource for pharmacy residents, research fellows, practitioners, and clinical researchers. FEATURES * Chapter Pedagogy: Learning Objectives, Review Questions, References, and Online Resources * Instructor Resources: PowerPoint Presentations, Test Bank, and an Answer Key * Student Resources: a Navigate Companion Website, including Crossword Puzzles, Interactive Flash Cards, Interactive Glossary, Matching Questions, and Web Links From the Foreword: \"This book was designed to provide and encourage practitioner’s development and use of critical drug information evaluation skills through a deeper understanding of the foundational principles of study design and statistical methods. Because guidance on how a study’s limited findings should not be used is rare, practitioners must understand and evaluate for themselves the veracity and implications of the inherently limited primary literature findings they use as sources of drug information to make evidence-based decisions together with their patients. The editors organized the book into three supporting sections to meet their pedagogical goals and address practitioners’ needs in translating research into practice. Thanks to the editors, authors, and content of this book, you can now be more prepared than ever before for translating research into practice.\" L. Douglas Ried, PhD, FAPhA Editor-in-Chief Emeritus, Journal of the American Pharmacists Association Professor and Associate Dean for Academic Affairs, College of Pharmacy, University of Texas at Tyler, Tyler, Texas",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449691318"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1449691315"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "categories": ["Medical"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8_JHAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8_JHAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=8_JHAwAAQBAJ&pg=PA266&dq=search+term&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=8_JHAwAAQBAJ&dq=search+term&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Principles_of_Research_Design_and_Drug_L.html?hl=&id=8_JHAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Principles_of_Research_Design_and_Drug_L-sample-pdf.acsm?id=8_JHAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8_JHAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... terms. Searching through controlled vocabularies is often preferred; however, there are situations when searching by keywords is appropriate. A keyword search will find any literature that uses that \u003cb\u003esearch term\u003c/b\u003e in the appropriate field&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DgbhAAAAMAAJ",
+      "etag": "0QCkiIbt/hU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DgbhAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Search INFORM.",
+        "publishedDate": "1986",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015014503646"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 362,
+        "printType": "BOOK",
+        "categories": ["ABI/INFORM (Information retrieval system)"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DgbhAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DgbhAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=DgbhAAAAMAAJ&pg=PA2&dq=search+term&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=DgbhAAAAMAAJ&dq=search+term&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Search_INFORM.html?hl=&id=DgbhAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DgbhAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}
