@@ -26,7 +26,7 @@ const initialState: Ifilter = {
   orderBy: "relevance",
   q: { query: "", category: "all" },
   startIndex: 0,
-  maxResults: 2
+  maxResults: 30
 };
 
 export const filterSlice = createSlice({
@@ -47,7 +47,6 @@ export const filterSlice = createSlice({
     },
     setPage: (state, action: PayloadAction<number>) => {
       state.startIndex = action.payload * state.maxResults;
-      console.log(state.startIndex);
     }
   }
 });

@@ -71,7 +71,7 @@ const Form = () => {
             value={formValues.q.query}
             onChange={handeQueryChange}
             onKeyDown={pressEnter}
-            className=" outline-none "
+            className=" outline-none w-80"
           />
           <div
             className=" text-2xl cursor-pointer"
@@ -80,8 +80,12 @@ const Form = () => {
             <HiOutlineSearch className="h-full" />
           </div>
         </div>
-        <div className="flex justify-center mt-6 gap-x-10">
-          <select name="category" onChange={handleCategoryChange}>
+        <div className="flex justify-between mt-6 gap-x-10">
+          <select
+            name="category"
+            className=" cursor-pointer border-2 rounded-md"
+            onChange={handleCategoryChange}
+          >
             <option defaultChecked value="all">
               All
             </option>
@@ -92,11 +96,15 @@ const Form = () => {
             <option value="medical">Medical</option>
             <option value="poety">Poety</option>
           </select>
-          <select name="sort" onChange={handleOrderByChange}>
+          <select
+            name="sort"
+            className=" cursor-pointer border-2 rounded-md"
+            onChange={handleOrderByChange}
+          >
             <option defaultChecked value="relevance">
               Relevance
             </option>
-            <option value="newest">newest</option>
+            <option value="newest">Newest</option>
           </select>
         </div>
       </form>

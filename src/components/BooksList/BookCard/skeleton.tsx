@@ -3,16 +3,15 @@ import { IContentLoaderProps } from "react-content-loader";
 
 const BookSkeleton = (props: IContentLoaderProps) => (
   <ContentLoader
-    width={450}
-    height={400}
-    viewBox="0 0 450 400"
-    backgroundColor="#f0f0f0"
-    foregroundColor="#dedede"
+    speed={2}
+    width={300}
+    height={350}
+    viewBox="0 0 300 350"
+    backgroundColor="#f3f3f3"
+    foregroundColor="#ecebeb"
     {...props}
   >
-    <rect x="43" y="304" rx="4" ry="4" width="271" height="9" />
-    <rect x="44" y="323" rx="3" ry="3" width="119" height="6" />
-    <rect x="42" y="77" rx="10" ry="10" width="388" height="217" />
+    <rect x="25" y="25" rx="0" ry="0" width="250" height="300" />
   </ContentLoader>
 );
 

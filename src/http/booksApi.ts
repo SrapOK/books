@@ -11,7 +11,9 @@ export type BooksResponse = {
   data: ResponseData;
 };
 
-export const fetchBooksApi = async (terms: Ifilter) => {
+export const fetchBooksApi = async (
+  terms: Ifilter
+): Promise<ResponseData | undefined> => {
   const params = new URLSearchParams();
 
   for (let key in terms) {
@@ -24,7 +26,12 @@ export const fetchBooksApi = async (terms: Ifilter) => {
 
   params.append("key", import.meta.env.VITE_GOOGLE_API_KEY);
 
-  const { data } = await $host.get("", { params });
+  let data: ResponseData | undefined = undefined;
 
-  return data as ResponseData;
+  try {
+    data = await $host.get<BooksResponse, ResponseData>("", { params });
+  } catch (err) {
+    console.log(err);
+  }
+  return data;
 };

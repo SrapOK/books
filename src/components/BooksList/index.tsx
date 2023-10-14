@@ -28,8 +28,8 @@ const BooksList: React.FC<BooksProps> = ({ items }) => {
   }, [currentPage]);
 
   return (
-    <div>
-      <ul>
+    <div className="flex flex-col align-middle justify-center">
+      <ul className="flex flex-wrap justify-evenly">
         {items.map((book, index) =>
           items[0] ? (
             <BookCard book={book} key={book.id} />
@@ -39,7 +39,11 @@ const BooksList: React.FC<BooksProps> = ({ items }) => {
         )}
       </ul>
       {items[0] ? (
-        <button type="button" onClick={onClick}>
+        <button
+          type="button"
+          className="mx-auto px-6 py-2 my-2 text-blue-500 text-xl"
+          onClick={onClick}
+        >
           Load more ...
         </button>
       ) : (
